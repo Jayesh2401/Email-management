@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>Email Management</h1>
     <EmailManager />
   </div>
 </template>
